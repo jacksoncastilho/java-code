@@ -13,4 +13,4 @@ Este trabalho teve como objetivo desafiar, auxiliar a entender como funciona as 
 - Quando um dos jogadores obter uma trilha, seja na linha, coluna ou em diagonal deve ser mostrado o nome do vencedor; 
 - Solicitar ao usuário de deseja jogar novamente; 
 
-![Jogo da Velha](https://github.com/jacksoncastilho/jogodavelha/blob/master/Captura%20de%20tela%20de%202020-08-09%2003-11-07.png)
+![Jogo da Velha](Captura%20de%20tela%20de%202020-08-09%2003-11-07.png)
